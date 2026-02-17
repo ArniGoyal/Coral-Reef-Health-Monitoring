@@ -1,4 +1,6 @@
 # 🌊 Coral Reef Health Detector
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://coral-reef-health-detector.streamlit.app/)
+[![GitHub license](https://img.shields.io/github/license/ArniGoyal/Coral-Reef-Health-Monitoring)](./LICENSE)
 
 This project utilizes a MobileNetV2 model to classify coral reef images into three categories: **Healthy**, **Bleached**, and **Dead**. The model was trained using the [BHD Corals Dataset](https://www.kaggle.com/datasets/sonainjamil/bhd-corals), which contains images of coral reefs categorized into these three classes.
 
